@@ -7,15 +7,15 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "tb_departament")
-public class Departament {
+@Table(name = "tb_department")
+public class Department {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	private String name;
 	
-	public Departament() {
+	public Department() {
 
 	}
 
