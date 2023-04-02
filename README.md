@@ -1,6 +1,6 @@
 # CRUD em Java com Spring Boot
 [![Java](https://img.shields.io/badge/Java-red.svg)](https://www.java.com/pt-BR/)
-[![17 JDK](https://img.shields.io/badge/JDK-11-yellow.svg)](https://www.oracle.com/br/java/technologies/downloads/)
+[![17 JDK](https://img.shields.io/badge/JDK-17-yellow.svg)](https://www.oracle.com/br/java/technologies/downloads/)
 [![3.0.5 SpringBoot](https://img.shields.io/badge/SpringBoot-3.0.5-green.svg)](https://spring.io/projects/spring-boot)
 
 ## Licença
