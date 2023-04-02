@@ -5,7 +5,7 @@
 
 ## Licença
 
-[MIT](https://github.com/matheus-honorato/crud-api-rest/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/matheus-honorato/crud-api-rest/blob/main/LICENSE)
 
 ## Sobre o projeto
   O objetivo deste projeto é construir uma API REST de usuários e departamentos que realize as operações de CRUD.
