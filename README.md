@@ -8,20 +8,24 @@
 ### 1 - Acessando a lista de usuários
   Na classe UserController temos o método GET findAll, responsável por listar todos os usuários.
   Para isso, basta utilizar o postman e acessar seu endereço local seguido por "/users"
+   ```
     Ex: http://localhost:suaPorta/users
-
+   ```
 ### 2 - Acessando um usuário pelo id
   Na classe UserController temos o método GET findById, responsável por buscar um usuário por ID.
   Para isso, basta utilizar o postman e acessar seu endereço local e após a barra de users deve ser digitado o id
+   ```
      Ex: http://localhost:8080/users/5
-
+   ```
 
 ### 3 - Inserindo um novo usuário
   Na classe UserController temos o método POST insert, responsável por inserir um novo usuário.
   Para isso, basta utilizar o postman e acessar seu endereço local seguido por "/users". Na aba body, você deve configurar no corpo da solicitação postman como raw e o formato do texto como json. 
+  ```
      Ex: http://localhost:8080/users/
-     
- ```
+  ```
+
+```
  Ex de como inserir usuário via json:
       {
           "name": "Leonardo",
