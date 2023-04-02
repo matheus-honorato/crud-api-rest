@@ -1,4 +1,11 @@
 # CRUD em Java com Spring Boot
+[![Java](https://img.shields.io/badge/Java-red.svg)](https://www.java.com/pt-BR/)
+[![17 JDK](https://img.shields.io/badge/JDK-11-yellow.svg)](https://www.oracle.com/br/java/technologies/downloads/)
+[![3.0.5 SpringBoot](https://img.shields.io/badge/SpringBoot-3.0.5-green.svg)](https://spring.io/projects/spring-boot)
+
+## Licença
+
+[MIT](https://github.com/matheus-honorato/crud-api-rest/blob/main/LICENSE)
 
 ## Sobre o projeto
   O objetivo deste projeto é construir uma API REST de usuários e departamentos que realize as operações de CRUD.
@@ -47,7 +54,7 @@
 ## Tecnologias utilizadas
 
 - Java
-- Spring Boot v3.0.5
+- Spring Boot
 - Spring JPA
 - Postman
 - Maven 3.1.0
