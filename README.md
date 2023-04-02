@@ -3,17 +3,6 @@
 ## Sobre o projeto
   O objetivo deste projeto é construir uma API REST de usuários e departamentos que realize as operações de CRUD.
 
-
-## Tecnologias utilizadas
-
-- Java
-- Spring Boot v3.0.5
-- Spring JPA
-- Postman
-- Maven 3.1.0
-- Banco de Dados H2
-- Spring Tool Suite (STS)
-
 ## Como acessar os endpoints
 
 ### 1 - Acessando a lista de usuários
@@ -51,7 +40,15 @@
 - Importar o repositório para o STS
 - Agora basta iniciar o servidor existente no Spring Boot que irá fazer a importação automaticamente do arquivo sql
 ```
+## Tecnologias utilizadas
 
+- Java
+- Spring Boot v3.0.5
+- Spring JPA
+- Postman
+- Maven 3.1.0
+- Banco de Dados H2
+- Spring Tool Suite (STS)
 
 ## Autor
 
